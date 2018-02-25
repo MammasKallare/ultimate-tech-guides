@@ -21,6 +21,8 @@ Also replace  `~/serverfiles/csgo/cfg/csgoserver.cfg` with the `csgoserver.cfg` 
 
 In the `csgoserver.cfg` change the `rcon_password` and `sv_password` to something appropriate.
 
+Uploaded the gamemode cfg that should be used from https://play.eslgaming.com/download/26251762/ to the `~/serverfiles/csgo/cfg/`. The cfg will then be loaded by a admin from the ingame console. 
+
 # Test
 
 Now find someone that knows how it should work and let them test it out.
