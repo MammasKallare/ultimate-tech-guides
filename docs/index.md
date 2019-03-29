@@ -8,14 +8,14 @@ Här går att finna hur man bär sig åt för att få allt att funka, även lös
 # Inför LAN:et 
 Dessa är saker som måste göras innan LAN:et. Denna listan är inte nödvändigt i en ordard lista
 *   Uppdatera vilka som får mejl för kontakt@wonderlan.se (Ledningen).
-*   Se till att routern funkar.
-      Uppdaterad
-      Generera lösenord / vouchers
+-   Se till att routern funkar.
+  -   Uppdaterad
+  -   Generera lösenord / vouchers
 *   Mejla BMT om switchar.
 *   Uppdatera servrarna fluffy och floof
 *   Uppdatera wordpress (floof)
 *   Släppa biljetter
-      Stänga försäljning
+  -   Stänga försäljning
 *   Hitta dator att kunna ha i entrén och köra kassasystemet
 *   Göra nya saker som anses behövas
 *   Fixa databasen till kassan (Eller få någon annan att göra det)
