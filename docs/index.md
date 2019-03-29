@@ -2,122 +2,45 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+Denna sida innehåller info om saker vilket behövs göras av Tech inför och under WonderLAN.
+Här går att finna hur man bär sig åt för att få allt att funka, även lösningar till vanliga problem som kan uppstå. 
 
-[Link to another page](./another-page.html).
+# Inför LAN:et 
+Dessa är saker som måste göras innan LAN:et. Denna listan är inte nödvändigt i en ordard lista
+*   Uppdatera vilka som får mejl för kontakt@wonderlan.se (Ledningen).
+*   Se till att routern funkar.
+**  Uppdaterad
+**  Generera lösenord / vouchers
+*   Mejla BMT om switchar.
+*   Uppdatera servrarna fluffy och floof
+*   Uppdatera wordpress (floof)
+*   Släppa biljetter
+**   Stänga försäljning
+*   Hitta dator att kunna ha i entrén och köra kassasystemet
+*   Göra nya saker som anses behövas
+*   Fixa databasen till kassan (Eller få någon annan att göra det)
+*   Arkiva gammal historik från försäljningen.
 
-There should be whitespace between paragraphs.
+## Strax innan construction, under construction och pre-LAN.
+*   Hämta switchar
+*   Sätta upp spelservrar
+*   Koppla ihop alla switcharna och se till att internet finns.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Under LAN:et
+Under LAN:et ska följande saker göras.
+*   Hjälpa personer som inte kommer ut på nätet.
+*   Fixa saker som går sönder.
 
-# Header 1
+# Efter LAN:et
+Efter LAN:et ska följande saker göras.
+*   Packa ihop kablarna och switcharna
+*   Lämna tillbaka switchar (Görs på måndagen)
+*   Stänga av och ta bort servrarna, IP-numerna samt router och nätverk.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Kassasystem
+Kassasystem som kör ett en hemsida som är ihop klistrad men karlskonklisster samt silvertejp. Att hitta en nytt bättre är ett förslag. Från början så var det en hemsida men sedan vi har införskaffat en kvittoskrivare så får hemsidan nu köras offline för att snacka med ett program som sedan kan skriva ut kvittot. Hemsidan snackar QZ Tray https://qz.io/ som sedan skickar datan vidare till skrivaren.
 
-## Header 2
+Kvittoskrivaren som används är en Metapace T-25 och datan vi skriver är raw ECS/POS
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+# Router
+TODO: Skriv skit
