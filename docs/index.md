@@ -5,6 +5,8 @@ layout: default
 Denna sida innehåller info om saker vilket behövs göras av Tech inför och under WonderLAN.
 Här går att finna hur man bär sig åt för att få allt att funka, även lösningar till vanliga problem som kan uppstå. 
 
+[Snabb guide till hantera problem på hemsidan](mk_website.md)
+
 # Inför LAN:et 
 Dessa är saker som måste göras innan LAN:et. Denna listan är inte nödvändigt i en ordard lista
 *   Uppdatera vilka som får mejl för kontakt@wonderlan.se (Ledningen).
